@@ -1,0 +1,4 @@
+socket
+colorama
+webbrowser
+requests
