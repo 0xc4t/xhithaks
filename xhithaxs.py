@@ -65,7 +65,6 @@ def PortScan():
 
 print ("Author : VarelSecurity")
 print ("Github : github.com/varelvalensio")
-print ("example : http://example.com tanpa /")
 print ("")
 print ("[+]------------------------[+]")
 print ("[1] Brute force directory")
