@@ -1,4 +1,1 @@
-socket
-colorama
-webbrowser
-requests
+
