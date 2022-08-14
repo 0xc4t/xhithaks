@@ -29,7 +29,7 @@ def SimDirBrute():
     print ("Github : github.com/varelvalensio")
     print ("example : 192.168.1.1 / example.com")
     print ("")
-    url = input("masukan url : ")
+    url = input("masukan input : ")
     wordlists = input("masukan wordlists : ")
     print ("")
     file = open(wordlists, "r")
