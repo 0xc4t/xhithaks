@@ -15,4 +15,6 @@ $ cd xhithaks
 
 $ python3 xhithaks.py
 
+## On android using pydroid
 
+![photo1660479297](https://user-images.githubusercontent.com/105418279/184536428-b4214e32-7b0f-46b0-a229-358952147bf7.jpeg)
