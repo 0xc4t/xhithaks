@@ -69,7 +69,7 @@ print ("")
 print ("[+]------------------------[+]")
 print ("[1] Brute force directory")
 print ("[2] Port scanner")
-print ("[3] Kasih saran pembuat\n")
+print ("[3] Kasih saran pembuat")
 print ("[+]------------------------[+]")
 pilih = input ("root@xhithaks:~# ")
 if pilih =="1":
