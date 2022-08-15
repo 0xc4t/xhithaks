@@ -106,7 +106,7 @@ def TrackingIp():
 print ("Author : VarelSecurity")
 print ("Github : github.com/varelvalensio")
 print ("Version : 1.0")
-hehe = req.get("https://api.myip.com")
+hehe = req.get("https://api.ipify.org?format=json")
 if hehe.status_code == 200:
     dataip = j.loads(hehe.text)
     print ("ip public anda : ",dataip["ip"])
