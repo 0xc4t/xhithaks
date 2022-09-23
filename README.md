@@ -1,6 +1,5 @@
 # xhithaks 
 
-## Install on linux
 
 ![Screenshot_2022-08-14_23_46_51](https://user-images.githubusercontent.com/105418279/184573838-3573b628-b3ae-4819-ad54-6aa35d9a72ab.png)
 
