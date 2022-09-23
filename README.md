@@ -1,4 +1,4 @@
-# xhithaks Simple Hacking Tools
+# xhithaks 
 
 ## Install on linux
 
