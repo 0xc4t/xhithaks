@@ -128,7 +128,7 @@ def AdminFinder():
       
 print ("Author : VarelSecurity")
 print ("Github : github.com/varelvalensio")
-print ("Version : 1.0")
+print ("Version : 1.2")
 hehe = req.get("https://api.ipify.org?format=json")
 if hehe.status_code == 200:
     dataip = j.loads(hehe.text)
