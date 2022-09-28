@@ -10,7 +10,7 @@
 - $ git clone https://github.com/varelvalensio/xhithaks/
 - $ pip3 install colorama
 - $ cd xhithaks
-- $ python3 xhithaks.py
+- $ python3 xhithaxs.py
 
 ## Feature 
 
