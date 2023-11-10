@@ -1,11 +1,8 @@
-# YANG MAU BANTU NGEMBANGIN SIHLAKAN CHAT AING 
-
 import requests as req
 import colorama 
 from colorama import Fore
 import socket
 import os
-import webbrowser as web
 import time
 import json as j
 
