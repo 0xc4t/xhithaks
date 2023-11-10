@@ -140,7 +140,6 @@ print ("[2] Port scanner")
 print ("[3] NC  Reverse shell")
 print ("[4] Ip public tracker ")
 print ("[5] AdminFinder")
-print ("[6] Kasih saran ")
 print ("[+]------------------------[+]")
 pilih = input ("root@xhithaks:~# ")
 if pilih =="1":
@@ -153,8 +152,6 @@ elif pilih =="4":
     TrackingIp()
 elif pilih =="5":
     AdminFinder()
-elif pilih =="6":
-    web.open_new("https://wa.me/6282175280152/")
 else:
     os.system("clear")
     print ("Input anda salah coba lagi")
